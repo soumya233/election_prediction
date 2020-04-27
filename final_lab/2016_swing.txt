@@ -1,0 +1,57 @@
+Alaska 12
+Arizona 1
+Arizona 2
+California 7
+California 10
+California 21
+California 24
+California 25
+California 49
+California 52
+Colorado 3
+Colorado 6
+Florida 2
+Florida 7
+Florida 10
+Florida 13
+Florida 18
+Florida 26
+Florida 27
+Illinois 10
+Illinois 12
+Indiana 2
+Indiana 9
+Iowa 1
+Iowa 3
+Kansas 3
+Maine 2
+Maryland 6
+Michigan 1
+Michigan 6
+Michigan 7
+Michigan 8
+Minnesota 2
+Minnesota 3
+Minnesota 8
+Montana 7
+Nebraska 2
+Nevada 3
+Nevada 4
+New Hampshire 1
+New Jersey 5
+New York 1
+New York 3
+New York 19
+New York 21
+New York 22
+New York 23
+New York 24
+New York 25
+Pennsylvania 6
+Pennsylvania 8
+Pennsylvania 16
+Texas 23
+Utah 4
+Virginia 5
+Virginia 10
+Wisconsin 8

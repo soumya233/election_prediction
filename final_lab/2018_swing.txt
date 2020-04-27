@@ -1,0 +1,88 @@
+Georgia 7
+Utah 4
+North 9
+New York 27
+Texas 23
+Minnesota 1
+California 21
+Illinois 13
+Kansas 2
+Georgia 6
+Maine 2
+New Jersey 3
+South 1
+Oklahoma 5
+Florida 26
+New York 22
+New Mexico 2
+Virginia 7
+Nebraska 2
+Iowa 3
+Virginia 2
+Pennsylvania 1
+Pennsylvania 10
+Texas 21
+Texas 31
+California 39
+Texas 24
+Kentucky 6
+Iowa 4
+California 50
+Michigan 8
+Missouri 2
+Texas 10
+New York 1
+California 45
+Ohio 12
+Minnesota 7
+Pennsylvania 16
+California 10
+Michigan 6
+Montana 4
+Washington 8
+Texas 22
+Illinois 14
+New Jersey 7
+Iowa 1
+Texas 7
+New York 19
+New York 24
+Ohio 1
+California 22
+North 2
+Minnesota 2
+Minnesota 8
+Washington 3
+North 13
+Florida 27
+Florida 15
+Illinois 12
+New York 2
+Arkansas 2
+New York 11
+Texas 32
+Virginia 5
+Alaska 6
+Michigan 11
+California 48
+Illinois 6
+Texas 2
+Michigan 7
+Texas 6
+New Jersey 2
+Arizona 1
+Colorado 3
+Nevada 4
+California 4
+New York 23
+New Hampshire 1
+Florida 18
+California 25
+Texas 25
+Nevada 3
+Florida 16
+Pennsylvania 8
+Arizona 2
+Kansas 3
+Indiana 2
+California 1

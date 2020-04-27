@@ -1,0 +1,77 @@
+Alaska at-large
+Arizona 1
+Arizona 2
+Arizona 9
+Arkansas 2
+Arkansas 4
+California 3
+California 7
+California 9
+California 21
+California 24
+California 26
+California 31
+California 36
+California 52
+Colorado 6
+Connecticut 5	
+Florida 2	
+Florida 18
+Florida 26
+Georgia 12
+Hawaii 1
+Illinois 8	
+Illinois 10	
+Illinois 11	
+Illinois 12	
+Illinois 13	
+Illinois 17	
+Indiana 2	
+Iowa 1	
+Iowa 2	
+Iowa 3	
+Iowa 4	
+Kansas 2	
+Kansas 3	
+Maine 2	
+Maryland 6	
+Massachusetts 6	
+Massachusetts 9	
+Michigan 1	
+Michigan 4	
+Michigan 6
+Michigan 7	
+Michigan 8
+Michigan 11
+Minnesota 1
+Minnesota 7
+Minnesota 8
+Montana at-large
+Nebraska 2
+Nevada 3	
+Nevada 4
+New Hampshire 1
+New Hampshire 2
+New Jersey 3
+New Jersey 5
+New York 1
+New York 4
+New York 11
+New York 18
+New York 19
+New York 21
+New York 23
+New York 24
+North Carolina 7
+North Dakota at-large
+Ohio 6
+Ohio 14
+Pennsylvania 6
+Texas 23
+Utah 4
+Virginia 10
+Washington 1
+West Virginia 2
+West Virginia 3
+Wisconsin 6
+Wisconsin 7
